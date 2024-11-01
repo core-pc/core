@@ -1,1 +1,2 @@
-this the shitpc
+contains files for the shitpc
+
