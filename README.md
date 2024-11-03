@@ -1,5 +1,4 @@
 <h1 align="center">core</h1>
-<h3 align="center">the main part of corepc</h3>
 
 ---
 
